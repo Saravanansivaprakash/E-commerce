@@ -26,3 +26,6 @@ Responsive layout using Tailwind's grid and breakpoint utilities.
 
 Routing
 Uses React Router v7+ for multi-page navigation (Home, Cart, etc.)
+
+### Live Link
+[https://myshopw.netlify.app/]
