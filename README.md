@@ -28,4 +28,4 @@ Routing
 Uses React Router v7+ for multi-page navigation (Home, Cart, etc.)
 
 ### Live Link
-[https://myshopw.netlify.app/]
+https://myshopw.netlify.app/
